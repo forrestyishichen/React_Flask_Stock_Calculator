@@ -7,3 +7,5 @@ In the static directory, start the npm watcher to build the front end code. "npm
 Create a python virtualenv.
 Install flask (pip install flask).
 Start the server. Go to the server directory and do "python server.py".
+
+![alt text](https://github.com/forrestyishichen/React_Flask_Stock_Calculator/blob/master/Screen%20Shot%202018-04-20%20at%207.24.17%20PM.png)
